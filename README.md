@@ -1,4 +1,4 @@
-** Using LSTM Predicting next Word **
+**Using LSTM Predicting next Word**
 
 for more info visit my medium page
 
